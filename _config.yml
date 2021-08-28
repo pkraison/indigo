@@ -7,7 +7,7 @@ bio: I'll figure it out
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: True
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
@@ -19,7 +19,7 @@ picture: assets/images/profile.jpg
 url: https://pkraison.github.io
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+#permalink: /:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
